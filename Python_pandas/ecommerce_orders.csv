@@ -19,3 +19,7 @@ O017,C09,Headphones,Accessories,3800,4,2024-04-10,North,Amit,0,Shipped
 O018,C07,Tablet,Electronics,31000,1,2024-04-16,South,Priya,10,Delivered
 O019,C08,Phone,Electronics,23000,1,2024-04-22,East,Ravi,5,Delivered
 O020,C10,Laptop,Electronics,85000,1,2024-04-28,West,Sneha,0,Pending
+O021,C01,Laptop,Electronics,75000,1,2024-01-05,North,Sneha,0,Delivered
+O022,C02,Phone,Electronics,25000,2,2024-01-11,South,Amit,5,Delivered
+O023,C01,Tablet,Electronics,35000,1,2024-01-17,East,Priya,10,Shipped
+O024,C03,Laptop,Electronics,80000,1,2024-01-23,West,Ravi,0,Delivered

@@ -1,0 +1,25 @@
+order_id,customer_id,product,category,amount,quantity,order_date,region,salesperson,discount,status,customer_name,tier,city,brand,cost_price,warranty_years
+O001,C01,Laptop,Electronics,75000,1,2024-01-05,North,Amit,0,Delivered,Ravi Kumar,Gold,Mumbai,Dell,60000,2
+O002,C02,Phone,Electronics,25000,2,2024-01-11,South,Priya,5,Delivered,Priya Sharma,Silver,Delhi,Samsung,18000,1
+O003,C01,Tablet,Electronics,35000,1,2024-01-17,East,Ravi,10,Shipped,Ravi Kumar,Gold,Mumbai,Apple,28000,1
+O004,C03,Laptop,Electronics,80000,1,2024-01-23,West,Sneha,0,Delivered,Amit Singh,Platinum,Bangalore,Dell,60000,2
+O005,C04,Phone,Electronics,22000,3,2024-01-29,North,Amit,5,Pending,Sneha Patel,Silver,Chennai,Samsung,18000,1
+O006,C02,Headphones,Accessories,3500,2,2024-02-04,South,Priya,0,Delivered,Priya Sharma,Silver,Delhi,Sony,2500,1
+O007,C05,Tablet,Electronics,32000,1,2024-02-10,East,Ravi,10,Shipped,Karan Mehta,Gold,Hyderabad,Apple,28000,1
+O008,C03,Phone,Electronics,27000,2,2024-02-16,West,Sneha,5,Delivered,Amit Singh,Platinum,Bangalore,Samsung,18000,1
+O009,C06,Laptop,Electronics,78000,1,2024-02-22,North,Amit,0,Delivered,Divya Nair,Bronze,Pune,Dell,60000,2
+O010,C01,Headphones,Accessories,4200,3,2024-02-28,South,Priya,0,Pending,Ravi Kumar,Gold,Mumbai,Sony,2500,1
+O011,C04,Tablet,Electronics,33000,1,2024-03-05,East,Ravi,10,Delivered,Sneha Patel,Silver,Chennai,Apple,28000,1
+O012,C07,Phone,Electronics,24000,1,2024-03-11,West,Sneha,5,Shipped,Rohit Gupta,Silver,Kolkata,Samsung,18000,1
+O013,C05,Laptop,Electronics,82000,1,2024-03-17,North,Amit,0,Delivered,Karan Mehta,Gold,Hyderabad,Dell,60000,2
+O014,C08,Tablet,Electronics,36000,2,2024-03-23,South,Priya,10,Delivered,Anita Joshi,Platinum,Ahmedabad,Apple,28000,1
+O015,C06,Phone,Electronics,26000,2,2024-03-29,East,Ravi,5,Pending,Divya Nair,Bronze,Pune,Samsung,18000,1
+O016,C02,Laptop,Electronics,79000,1,2024-04-04,West,Sneha,0,Delivered,Priya Sharma,Silver,Delhi,Dell,60000,2
+O017,C09,Headphones,Accessories,3800,4,2024-04-10,North,Amit,0,Shipped,Vikram Das,Bronze,Jaipur,Sony,2500,1
+O018,C07,Tablet,Electronics,31000,1,2024-04-16,South,Priya,10,Delivered,Rohit Gupta,Silver,Kolkata,Apple,28000,1
+O019,C08,Phone,Electronics,23000,1,2024-04-22,East,Ravi,5,Delivered,Anita Joshi,Platinum,Ahmedabad,Samsung,18000,1
+O020,C10,Laptop,Electronics,85000,1,2024-04-28,West,Sneha,0,Pending,,,,Dell,60000,2
+O021,C01,Laptop,Electronics,75000,1,2024-01-05,North,Sneha,0,Delivered,Ravi Kumar,Gold,Mumbai,Dell,60000,2
+O022,C02,Phone,Electronics,25000,2,2024-01-11,South,Amit,5,Delivered,Priya Sharma,Silver,Delhi,Samsung,18000,1
+O023,C01,Tablet,Electronics,35000,1,2024-01-17,East,Priya,10,Shipped,Ravi Kumar,Gold,Mumbai,Apple,28000,1
+O024,C03,Laptop,Electronics,80000,1,2024-01-23,West,Ravi,0,Delivered,Amit Singh,Platinum,Bangalore,Dell,60000,2
